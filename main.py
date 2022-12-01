@@ -21,7 +21,7 @@ class Main(QDialog):
 
         self.setWindowTitle('Сложные табличные вычисления в Python')
 
-        self.setWindowIcon(QtGui.QIcon('images/logo.png'))
+        self.setWindowIcon(QtGui.QIcon('uis/logo.png'))
 
 
         pixmap = QtGui.QPixmap('uis/task8.png')
